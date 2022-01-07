@@ -8,10 +8,6 @@
 
 A React Native application to display your skills as you input them.
 
-## 💻 Project
-
-MySkills is a project developed during Chapter I from Rocketseat Ignite bootcamp
-
 ## 🧪 Technologies
 
 - [React Native](https://www.reactnative.dev)
@@ -37,3 +33,7 @@ yarn
 # Start the project
 yarn start
 ```
+
+## 💻 Project
+
+MySkills is a project developed during Chapter I of Rocketseats Ignite bootcamp
